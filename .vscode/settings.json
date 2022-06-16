@@ -1,0 +1,22 @@
+{
+  "cSpell.enabled": true,
+  "cSpell.enableFiletypes": [
+    "markdown"
+  ],
+  "cSpell.languageSettings": [
+    {
+        // use with Markdown files
+        "languageId": "markdown",
+        // Exclude code.
+        "ignoreRegExpList": [
+            "/^\\s*```[\\s\\S]*?^\\s*```/gm"
+        ]
+    }
+],
+"cSpell.words": [
+  "marp",
+  "nixos",
+  "nixpkgs",
+  "Vendoring"
+]
+}
