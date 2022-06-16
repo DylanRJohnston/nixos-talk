@@ -27,6 +27,10 @@ DevOps Swiss Army Knife
 
 ---
 
+# **Settings Expectations**
+
+---
+
 # **Why**
 
 ---
