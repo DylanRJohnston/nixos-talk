@@ -14,6 +14,7 @@ footer: Source: https://github.com/dylanrjohnston/nixos-talk
     white-space: pre-wrap;
   }
   footer {
+    text-align: left;
     font-size: .30em;
   }
 </style>
