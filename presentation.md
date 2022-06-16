@@ -13,6 +13,9 @@ footer: Source: https://github.com/dylanrjohnston/nixos-talk
   code {
     white-space: pre-wrap;
   }
+  footer {
+    font-size: .30em;
+  }
 </style>
 
 ![bg contain right:50%](https://upload.wikimedia.org/wikipedia/commons/2/28/Nix_snowflake.svg)
